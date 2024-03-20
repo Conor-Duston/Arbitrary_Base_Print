@@ -1,0 +1,6 @@
+#ifndef ARBITRARY_BASE_CONVERTER
+#define ARBITRARY_BASE_CONVERTER
+
+
+
+#endif
